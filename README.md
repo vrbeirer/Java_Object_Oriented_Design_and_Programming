@@ -6,10 +6,7 @@ This repository contains code and examples related to Object-Oriented Design (OO
 
 * [Description](#description)
 * [Concepts Covered](#concepts-covered)
-* [File Structure](#file-structure)
-* [How to Run](#how-to-run)
-* [Contributing](#contributing)
-* [License](#license)
+
 
 ## Description
 
